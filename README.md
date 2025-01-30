@@ -2,7 +2,7 @@
 
 ## 📌 Vídeo Tutorial
 Assista ao vídeo explicando a configuração do ambiente:
-[Coloque o link do vídeo aqui]
+[[Coloque o link do vídeo aqui]](https://www.loom.com/share/eae599fe4a2e4e00a6c4a6d03585a1c1?sid=0d94383e-293c-4010-9929-c9a6020fb834)
 
 ## 🛠️ Containers Necessários
 Para rodar o projeto corretamente, você precisará executar manualmente os seguintes containers Docker:
